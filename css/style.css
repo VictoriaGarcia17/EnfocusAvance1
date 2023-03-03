@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800;900&family=Open+Sans:wght@300;500;600;700;800&display=swap');
+
+:root{
+	--color-hover-menu: #000;
+	--color-blanco:#fff;
+	--color-negro:#000;
+}
+
+
+
+header{
+	background-color: #3957a3;
+	padding: 10px;
+	color:#FFFFFF;
+	text-align:center;
+}
+
+
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+}
+
+#homepage{
+	background-image: url("../img/fondo-homepage1.jpg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 50px;
+	color:#FFFFFF;
+}
+
+#destacadas{
+font-size: 25px;	
+padding: 80px 40px;	
+}
+
+#informacion{
+	background-color: rgba(19,19,19,0.80);
+	color:#FFFFFF;
+	padding: 5px;
+	text-align: center;
+}
+
+#noticias{
+	text-align: center;
+	align-items: center;
+	padding: 20px;
+	
+}
+
+#noticias-2{
+	padding: 20px;
+}
+
+footer{
+	background-color: #FFFFFF;
+	color: #000000;
+	align-items: center;
+	text-align: center;
+	padding-bottom: 50px;
+	
+}
+
+.ph1{
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+
+.ph2{
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+
+.ph3{
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.phl{
+	padding-top: 6px;
+}
+
+.pfs{
+	
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+#proyectos-audiovisuales{
+	background-image: url("../img/fondo-proyectos2.jpeg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:cover;
+	height: 100vh;
+	color:#FFFFFF;
+}
+
+#cinematografia{
+	background-color:hsla(60,99%,44%,0.67);
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#produccion1{
+	background-color: hsla(188,54%,63%,0.75);
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+#produccion2{
+background-color:hsla(60,99%,44%,0.67);
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#produccionsonora{
+background-color: hsla(188,54%,63%,0.75);	
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#edicionvideo{
+background-color:hsla(60,99%,44%,0.67);	
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#informacion-proyectos{
+	background-color: rgba(19,19,19,0.80);
+	color:#FFFFFF;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	align-content: center;
+	position: relative;
+}
+
+#redes{
+	color:var(--color-negro);
+	
+}
+
+.icon {
+  font-size: 50px;
+}
+
+
+#quienessomos{
+	background-image: url("../../Proyecto Enfocus/img/fondo-quienes3.jpg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 50px;
+	color:#FFFFFF;
+	padding-bottom: 50px;
+}
+
+#informacion-quienessomos{
+	background-color: rgba(19,19,19,0.80);
+	color:#FFFFFF;
+	padding: 70px;
+	padding: 70px;
+	text-align: center;
+}
+
+#origenes{
+	padding: 70px;
+	color: #FFFFFF;
+	background-color: #000000;
+	background-image: url("../../Proyecto Enfocus/img/img-quienes4.jpg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#informacion-origenes{
+	background-color: rgba(19,19,19,0.80);
+	color:#FFFFFF;
+	padding: 50px;
+}
+
+#actividades{
+	padding: 50px;
+	color: #FFFFFF;
+	background-color: #000000;
+	background-image: url("../../Proyecto Enfocus/img/img-quienes.jpg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#informacion-actividades{
+	background-color: rgba(19,19,19,0.80);
+	color:#FFFFFF;
+	padding: 50px;
+	text-align: right;
+}
+
+#evento{
+	padding: 50px;
+	color: #FFFFFF;
+	background-color: #CA5299;
+	text-align: center;
+	
+}
+
+.qsh{
+	padding: 20px;
+	text-align: left;
+}
+
+.qsh2{
+	padding: 20px;
+	text-align: right;
+}
